@@ -1,7 +1,7 @@
 # sorting-algorithms
  you can create an object of the sortArray class which takes list as an argument and then can call the following methods for different algorithms.
  
-  1. object.heapSort()
+  1. <b>object.heapSort():</b><br>
      takes no argument and returns the sorted list
      
   2. object.insersionSort()
