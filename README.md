@@ -2,18 +2,18 @@
  you can create an object of the sortArray class which takes list as an argument and then can call the following methods for different algorithms.
  
   1. <b>object.heapSort():</b><br>
-     takes no argument and returns the sorted list
+     Takes no argument and returns the sorted list
      
-  2. object.insersionSort()
+  2. <b>object.insersionSort():</b><br>
      takes no argument and returns the sorted list
  
-  3. object.mergeSort(p, q)
+  3. <b>object.mergeSort(p, q):</b><br>
      takes inital index and final index of the list and returns the sorted array, you can call the method on sublist also. Mention the inital and final index of the sublist
      
-  4. object.bubbleSort():
+  4. <b>object.bubbleSort():</b><br>
      Takes no argument and returs the sorted list
      
-  5. object.quickSort(p, q):
+  5. <b>object.quickSort(p, q):</b><br>
     takes inital index and final index of the list and returns the sorted array, you can call the method on sublist also. Mention the inital and final index of the sublist
       
      
